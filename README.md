@@ -1,16 +1,18 @@
-## Hi there 👋
+### Привет 👋
 
-<!--
-**qkez/qkez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python-разработчик. Учусь, пишу проекты, открыт к заказам.
 
-Here are some ideas to get you started:
+**Стек:** Python • aiogram • SQLite • requests • Git • Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Сейчас изучаю:** FastAPI, Docker
+
+---
+
+### 🛠 Проекты
+
+- 🤖 [assistant-bot](https://github.com/qkez/assistant-bot) — Telegram-бот: заметки, курсы, новости, напоминания
+- 💱 [currency-monitor](https://github.com/qkez/currency-monitor) — мониторинг курсов ЦБ РФ
+- 📰 [news-aggregator](https://github.com/qkez/news-aggregator) — агрегатор RSS-новостей
+- 🗑 [dedupe](https://github.com/qkez/dedupe) — поиск дубликатов файлов
+- 📝 [bulk-rename](https://github.com/qkez/bulk-rename) — массовое переименование
+- 📂 [file-organizer](https://github.com/qkez/file-organizer) — сортировка файлов
